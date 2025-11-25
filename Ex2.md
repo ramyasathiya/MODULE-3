@@ -1,6 +1,5 @@
 ## Ex.No:2
-## Ex.Name: write a program to check whether student is passed the exam and display their grades using Multilevel inheritance?
-(check if average > 90 grade=s,average >80 and less than equal to 90 A+ grade,average>70 and less than equal to 80 A grade,average 60 to 70 b grade,average is 50 to 59 C grade otherwise fail)
+## Ex.Name: write a program to check whether student is passed the exam and display their grades using Multilevel inheritance?(check if average > 90 grade=s,average >80 and less than equal to 90 A+ grade,average>70 and less than equal to 80 A grade,average 60 to 70 b grade,average is 50 to 59 C grade otherwise fail)
 
 ## Date:
 ## Aim:
