@@ -1,6 +1,8 @@
 ## Ex.No:1
 ## Ex.Name: Write a C++ program to divide numbers using inheritance (declare two input variable as protected in base class and read one value in one derived class and read another value its derived class and do the divide operation in its derived class).
-## Date:
+## Date:  25.08.25
+## Name : Ramya S
+## Register Number : 212222040130
 ## Aim:
 To write a C++ program to divide two numbers using inheritance, where two input variables are declared as protected in the base class, one value is read in the first derived class, the other value is read in the second derived class, and the divide operation is performed in the second derived cla
 
